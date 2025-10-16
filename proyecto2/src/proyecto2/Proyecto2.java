@@ -6,7 +6,7 @@ package proyecto2;
 
 /**
  *
- * @author UTPL
+ * @author User
  */
 public class Proyecto2 {
 
